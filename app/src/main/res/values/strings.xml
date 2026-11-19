@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Nova AI</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_chat">Chat</string>
+    <string name="nav_create">Create</string>
+    <string name="nav_profile">Profile</string>
+    <string name="sample_preview_notice">Sample Preview Mode: Live Gemini &amp; cloud sync require Firebase setup.</string>
+    <string name="sample_preview_badge">Sample Preview</string>
+    <string name="home_greeting_subtitle">All-in-one cosmic AI workspace</string>
+    <string name="home_hero_title">Create, reason &amp; learn faster</string>
+    <string name="home_hero_cta">Start a Conversation</string>
+    <string name="chat_placeholder">Ask Nova anything...</string>
+    <string name="chat_new_session">New Chat</string>
+    <string name="create_prompt_hint">Describe the image you want to create...</string>
+    <string name="create_generate_button">Generate Preview</string>
+    <string name="voice_title">Voice Assistant</string>
+    <string name="voice_tap_to_speak">Tap orb to speak</string>
+    <string name="voice_listening">Listening...</string>
+    <string name="voice_thinking">Thinking...</string>
+    <string name="voice_speaking">Speaking reply...</string>
+    <string name="study_title">Study Assistant</string>
+    <string name="writing_title">Writing Studio</string>
+    <string name="history_title">Chat History</string>
+    <string name="settings_title">Settings</string>
+    <string name="cd_back">Navigate back</string>
+    <string name="cd_send">Send message</string>
+    <string name="cd_voice_orb">Toggle voice listening</string>
+    <string name="cd_copy">Copy to clipboard</string>
+    <string name="cd_delete">Delete item</string>
+    <string name="cd_pin">Pin conversation</string>
+    <string name="cd_favorite">Toggle favorite</string>
+</resources>

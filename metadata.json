@@ -1,0 +1,6 @@
+{
+  "name": "Nova AI",
+  "description": "An all-in-one Gemini-powered AI assistant with chat, image generation, voice assistant, study assistant, writing studio, and synced history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
